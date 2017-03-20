@@ -1,1 +1,9 @@
-basic app with database connectivity using SQlite
+basic app with database connectivity using SQliteand basic UI
+
+Functionality includes :
+
+INSERT
+DELETE
+UPDATE
+SEARCH
+VIEW
